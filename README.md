@@ -1,4 +1,4 @@
-## Next.js App Router Course - Starter
+## Next.js Dashboard App
 
 Check out application at this [link](https://dashboard-rose-alpha.vercel.app/)
 
